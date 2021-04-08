@@ -1,0 +1,20 @@
+.list-data {
+  display: flex;
+  flex-direction: column;
+  height: max-content;
+  background-color: rgb(150, 123, 123);
+  margin: 5px;
+  border-radius: 5px;
+}
+.listTemplate {
+  display: flex;
+}
+.cardName-close {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+.addTxt {
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
